@@ -1,0 +1,124 @@
+/* Header */
+*{
+    margin: 0;
+    padding: 0;
+    border: border-box;
+}
+body {
+      font-family: Arial, sans-serif;
+      background: #f0f3ff;
+      margin: 0;
+      text-align: center;
+      padding: 50px;
+    }
+    .nav {
+      display: flex;
+      justify-content: space-between;
+      padding: 10px 20px;
+      color: #2a32f2;
+      font-weight: bold;
+    }
+    .button {
+      background-color: #2a32f2;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 8px;
+      font-weight: bold;
+    }
+    h1 {
+      margin-top: 100px;
+      font-size: 28px;
+      color: #222;
+    }
+    .center-button {
+      margin-top: 20px;
+    }
+.fit{
+    background-image: url(/Assets/Hero-bg.png);
+}
+/* Btn */
+.dfg{
+     background-color:rgb(78, 71, 255) ;
+   font-size: 20px;
+   color: white;
+   padding: 10px 18px;
+   border-radius: 5px;
+   border: none;
+
+}
+.content{
+    padding-top: 300px ;
+    padding-left: 700px;
+    font-size: xx-large;
+}
+.cvb-primary{
+ background-color:rgb(78, 71, 255) ;
+   font-size: 20px;
+   color: white;
+   padding: 10px 18px;
+   border-radius: 5px;
+   border: none;
+   margin-left: 850px;
+}
+/* Main */
+#ghj{
+    font-weight: 600;
+    font-size: bold;
+}
+.img1{
+    background-image: url(/Assets/wc-mini.png);
+    background-size: cover;
+}
+.description{
+    font-size: 45;
+    font-weight:lighter;
+}
+.second{
+    margin-left:0px;
+    margin-top: 200px;
+
+}
+.all-title{
+    display: flex;
+    justify-content: space-evenly;
+    height: 328;
+    width: 1140;
+    gap: 203;
+    margin-left: 300px;
+}
+.photo-shop{
+    margin-bottom: 20px;
+    margin-top: 220px;
+    border-radius: 15px;
+}
+.title{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 80px;
+    border-radius: 10px;
+    background-color: rgba(154, 154, 255, 0.473);
+    height: 100px;
+    width: 900px;
+    margin-left: 280px;
+}
+.vit{
+    font-size: 25px;
+    font-weight: bold;
+    padding-left: 100px;
+}
+.item-title{
+    font-size: 35px;
+    font-weight: bold;
+    color:rgb(78, 71, 255) ;
+    padding-top: 20px;
+
+}
+.heading{
+    margin-top: 40px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.item-description{
+   padding: 10px 15px; 
+}
