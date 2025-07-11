@@ -178,3 +178,28 @@ body {
     button:hover {
       background-color: #3a3acc;
     }
+/* footer */
+#iop{
+  font-size: 60px;
+  color: #2a32f2;
+}
+#gh{
+  text-align: center;
+  color: #222;
+  font-size:15px ;
+}
+.last{
+  padding-top: 100px;
+  padding-bottom: 50px;
+  background-color: white;
+  height: 300px;
+}
+a{
+  text-decoration: none;
+  margin-left: 20px;
+  color: #363333;
+}
+.asd{
+   padding-bottom: 5px;
+
+}
