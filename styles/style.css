@@ -203,3 +203,62 @@ a{
    padding-bottom: 5px;
 
 }
+/* middle */
+.sub-title{
+  margin-left: 70px;
+  font-size: 30px;
+  margin-bottom: 70px;
+}
+.main34{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 70px;
+}
+.st{
+
+ border-radius: 5%;
+ height: 200px ;
+ width: 300px;
+ background-color: white;
+ margin-right: 30px;
+}
+.nd{
+ 
+  height: 200px ;
+  width: 300px ;
+  border-radius: 5%;
+  background-color: white;
+  margin-right: 30px;
+}
+.rd{
+height: 200px;
+width: 300px;
+ border-radius: 5%;
+ background-color: white;
+}
+.img1{
+  height: 12px;
+  width: 12px;
+background-image: url(/Assets/icon-star.png);
+margin-left: 10px;
+}
+.lo{
+  display: flex;
+  margin-bottom: 30px;
+}
+#mn{
+   text-align: left;
+   margin-left: 5px;
+   font-size: 12px;
+   font-weight: lighter;
+}
+#ty{
+  text-align: left;
+  margin-left: 5px;
+}
+.text{
+  padding-left: 20px;
+}
+
+  
